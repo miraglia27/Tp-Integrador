@@ -1,0 +1,74 @@
+#confbsas{
+
+text-align: end;
+font-size: 15px;
+
+
+}
+
+#botonorador{
+
+
+background-color:transparent;
+color: white;
+border: 1px solid white;
+border-radius: 10px;
+padding: 10px 15px;
+text-align: center;
+font-weight: bold;
+}
+
+
+#botonticket{
+
+background-color: green;
+color: white;
+border: 1px solid white;
+border-radius: 10px;
+padding: 10px 15px;
+text-align: center;
+font-weight: bold;
+}
+
+.card-img-top{
+
+width: 350px;
+
+}
+
+#botonquiero{
+
+background-color: transparent;
+border: 1px solid white;
+border-radius: 10px;
+color: white;
+padding: 10px 10px;
+margin: 5px;
+
+}
+
+.card-bs{
+
+margin: 10px;
+
+}
+
+.botonenviar{
+
+background-color:yellowgreen;
+border: 1px solid white;
+border-radius: 10px;
+color: white;
+padding: 10px 10px;
+font-weight: 700;
+
+}
+
+.col{
+
+    color: white;
+    padding: 10px 10px;
+    margin: 10px;
+    
+}
+
