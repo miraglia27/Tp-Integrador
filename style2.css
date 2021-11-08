@@ -1,0 +1,82 @@
+
+.card1{
+
+    border-style: groove;
+    border-color: lightblue;
+    width: 250px;
+    height: 250px;
+    padding: 2%;
+    float: left;
+    margin-left: 160px;
+}
+ 
+.card2{
+
+    border-style: groove;
+    border-color: #29D82E ;
+    width: 250px;
+    height: 250px;
+    padding: 2%;
+    float: left;
+    margin-left: 10px;
+}
+  
+ .card3{
+
+    border-style: groove;
+    border-color: orange;
+    width: 250px;
+    height: 250px;
+    padding: 2%;
+    float: left;
+    margin-left: 10px;
+}
+
+.footer{
+
+    color: white;
+}
+
+.total{
+
+    color: #1714B7;
+    background-color:#A9CCE3;
+    padding: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+   
+}
+
+.borrar{
+
+    background-color: #A1DF32;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+    border-style: groove;
+    font-weight: bold;
+
+}
+
+#resumen{
+
+    background-color: #A1DF32;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+    border-style: groove;
+    font-weight: bold;
+
+}
+
+
+
+
+
+
+
+
+
+
